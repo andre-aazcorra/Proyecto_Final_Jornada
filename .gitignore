@@ -1,0 +1,4 @@
+.env
+node_modules
+# Ignore the netlify local
+.netlify
